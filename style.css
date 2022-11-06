@@ -13,7 +13,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(https://img.seadn.io/files/811b3c3cf8fa93db1a6a0535da9393c5.png);
+    background-color: #fbfbfb;
 }
 
 .container {
@@ -122,11 +122,7 @@ body {
     left: 0;
 }
 
-.input-field i.showHidePw {
-    right: 0;
-    cursor: pointer;
-    padding: 10px;
-}
+
 
 .form .checkbox-text {
     display: flex;
